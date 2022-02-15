@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercice Gestion</string>
+    <string-array name="modules">
+        <item>Mathematics</item>
+        <item>Arab</item>
+        <item>Francais</item>
+        <item>Physique</item>
+    </string-array>
+</resources>
